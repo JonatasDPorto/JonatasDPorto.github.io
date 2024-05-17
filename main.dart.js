@@ -87196,8 +87196,8 @@ K(a){var s,r,q,p=null,o=$.aP
 if(o==null)o=$.aP=B.B
 s=A.n(this).h("dZ.T")
 o=o.cM(0,p,s).ay
-r=A.cR().$2$fontSize$fontWeight(48,B.bp)
-r=A.u6(p,p,B.bj,p,p,!0,p,A.c7(A.b([A.c7(p,A.cR().$2$fontSize$fontWeight(32,B.ar),"Millions of movies, TV shows and people to discover. Explore now.")],t.Ne),r,"Welcome.\n"),B.aH,p,p,B.al,B.aE)
+r=A.cR().$3$color$fontSize$fontWeight(B.i,48,B.bp)
+r=A.u6(p,p,B.bj,p,p,!0,p,A.c7(A.b([A.c7(p,A.cR().$3$color$fontSize$fontWeight(B.i,32,B.ar),"Millions of movies, TV shows and people to discover. Explore now.")],t.Ne),r,"Welcome.\n"),B.aH,p,p,B.al,B.aE)
 q=$.aP
 return new A.ua(A.dw(A.ed(p,A.azD(A.b([new A.O6(r,"assets/images/home_discovery.jpg",(q==null?$.aP=B.B:q).cM(0,p,s).gao_(),o,p),new A.lb(new A.a7z(this),p),new A.lb(new A.a7A(this),p)],t.p),p,p,!1),B.r,p,B.i0,p,p,p,p,p),p,B.kx,p),p)}}
 A.a7z.prototype={
